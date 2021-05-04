@@ -1,1 +1,1 @@
-# Deep-Learning Specialization by Coursera
+# Programming assignment of Deep-Learning Specialization by Coursera
